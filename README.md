@@ -5,7 +5,7 @@ A progressive web application made from scratch using Reactjs; currently in deve
 Up to date *npm* and *node* versions. 
 [Versions being used for development: __npm 6.12.1__, __node 12.13.1__]
 <br/>
-For updating the versions:<br/><br/> ```sudo npm install -g n```<br/> ```sudo n stable ``` 
+For updating to latest versions:<br/><br/> ```sudo npm install -g n```<br/> ```sudo n stable ``` 
 
 ## Execution
 Installs node modules: ```npm install```<br/>
