@@ -1,0 +1,11 @@
+﻿.profile {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("http://backgroundcheckall.com/wp-content/uploads/2017/12/cream-background-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+}
+
+.bm-burger-bars {
+    background: white;
+}
