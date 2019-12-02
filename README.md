@@ -6,6 +6,7 @@ Up to date *npm* and *node* versions.
 [Versions being used for development: __npm 6.12.1__, __node 12.13.1__]
 
 ## Execution
+Installs node modules: ```npm install```<br/>
 Launches project in development mode: ```npm start```
 
 ## Miscellaneous
