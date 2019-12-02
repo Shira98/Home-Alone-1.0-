@@ -9,7 +9,7 @@ Up to date *npm* and *node* versions.
 Launches project in development mode: ```npm start```
 
 ## Miscellaneous
-The basic working structure of [Home Alone 1.0](https://hci-lab.firebaseapp.com/ "Home Alone 1.0 title") is currently deployed on firebase.
+The basic working structure of [Home Alone 1.0](https://hci-lab.firebaseapp.com/ "Home Alone 1.0 title") is currently hosted on firebase.
 
 ### Documentations
 * Firebase hosting: https://firebase.google.com/docs
