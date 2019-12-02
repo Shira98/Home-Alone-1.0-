@@ -15,8 +15,9 @@ Launches project in development mode: ```npm start```
 The basic working structure of [Home Alone 1.0](https://hci-lab.firebaseapp.com/ "Home Alone 1.0 title") is currently hosted on firebase.
 
 ### Documentations
-* Firebase hosting: https://firebase.google.com/docs
-* PWA with React: https://blog.bitsrc.io/build-progressive-web-apps-with-react-part-1-63f1fbc564a6
+* Firebase guidelines: https://firebase.google.com/docs 
+* Firebase hosting: https://firebase.google.com/docs/cli#install-cli-windows
+* PWA with React tutorial: https://blog.bitsrc.io/build-progressive-web-apps-with-react-part-1-63f1fbc564a6
 
 ### Current Work
 * Addition of speech recognition features.
