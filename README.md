@@ -12,7 +12,7 @@ Installs node modules: ```npm install```<br/>
 Launches project in development mode: ```npm start```
 
 ## Miscellaneous
-The basic working structure of [Home Alone 1.0](https://hci-lab.firebaseapp.com/ "Home Alone 1.0 title") is currently hosted on firebase.
+The basic working structure of Home Alone 1.0 is currently hosted on firebase.
 
 ### Documentations
 * Firebase guidelines: https://firebase.google.com/docs 
