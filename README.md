@@ -22,6 +22,7 @@ The basic working structure of Home Alone 1.0 is currently hosted on firebase.
 ### Current Work
 * Addition of speech recognition features.
 * UI improvements.
+
 ### Future Work
 * Local storage dependency removal.
 * Addition of intents to be made generic.
