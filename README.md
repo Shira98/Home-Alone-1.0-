@@ -26,3 +26,7 @@ The basic working structure of Home Alone 1.0 is currently hosted on firebase.
 ### Future Work
 * Local storage dependency removal.
 * Addition of intents to be made generic.
+
+<p align="center">
+ <img src="Misc. Application Details/home-alone-1.0.gif" alt="Web Application GIF" height=400/>
+</p>
